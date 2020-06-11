@@ -1,4 +1,5 @@
 Final Project for Martin, Katherine and Zach
+(original location w branching: https://github.com/zelson71/final)
 
 Title
 The Search for Value in Wines in the US and France and the Relative Price / Rating Relationship Using Data Made Available by Wine Enthusiast Magazine. 
